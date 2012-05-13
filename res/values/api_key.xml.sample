@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    1. copy this file to api_key.xml
+    2. replace string below 'api key' to google api key you got
+    3. remove comments
+    <string name="api_key">api key</string>
+    -->
+</resources>

@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, AndroidSeminarActivity!</string>
-    <string name="app_name">AndroidSeminar</string>
+    <string name="hello">Hello World, WeatherMapActivity!</string>
+    <string name="app_name">WeatherMap</string>
+    <string name="about">About</string>
+    <string name="preferences">Preferences</string>
+    <string name="quit">Quit</string>
+    <string name="minimum_temperature">最低気温</string>
+    <string name="maximum_temperature">最高気温</string>
+    <string name="explanation_message">
+        GoogleMapを用いた天気予報アプリです。\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n
+        </string>
+    <string name="exit_message">終了します？</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
 
 </resources>
